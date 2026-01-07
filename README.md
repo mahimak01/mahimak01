@@ -1,7 +1,6 @@
 # Hi 👋 I'm Mahima Kothe
 
 💻 Frontend Developer  
-🌱 Learn HTML, CSS & JavaScript & React & Node.js & Bootstrap 
 🚀 Building real-world web projects  
 
 ---
