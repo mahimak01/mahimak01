@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Mahima Kothe
 
-<!--
-**mahimak01/mahimak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🌱 Learn HTML, CSS & JavaScript & React & Node.js & Bootstrap 
+🚀 Building real-world web projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+---
+
+## 📂 Projects
+
+### 🌦 Weather App
+A web app that shows real-time weather using API.  
+🔗 https://github.com/mahimak01/weather-app
+
+---
+
+### 💬 Chat App
+WhatsApp-like chat UI using JavaScript.  
+🔗 https://github.com/mahimak01/chat-app
+
+---
+
+### 🍲 Recipe Book
+Recipe website with search feature.  
+🔗 https://github.com/mahimak01/E_Recipe_Book
+
+---
+
+## 📫 Contact
+📧 Email: mahimakothe01@gmail.com
