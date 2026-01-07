@@ -11,7 +11,8 @@
 - CSS3
 - JavaScript
 - Bootstrap
-
+- React.js
+- Node.js
 ---
 
 ## 📂 Projects
