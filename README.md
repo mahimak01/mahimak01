@@ -35,4 +35,4 @@ Recipe website with search feature.
 ---
 
 ## 📫 Contact
-📧 Email: mahimakothe01@gmail.com
+📧 Email: mahimakothe2001@gmail.com
